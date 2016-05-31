@@ -1,5 +1,5 @@
 require_relative 'queue'
 
-describe Queue do
+describe MyQueue do
 
 end

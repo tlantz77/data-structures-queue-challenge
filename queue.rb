@@ -1,3 +1,3 @@
-class Queue
+class MyQueue
 
 end

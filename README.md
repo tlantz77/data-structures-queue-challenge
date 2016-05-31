@@ -12,14 +12,14 @@ Queues are the natural complement to Stacks. Some algorithms work with Queues, o
 
 ## Release 1: Implement the Queue
 
-Write and test a `Queue` class that conforms to the following interface:
+Write and test a `MyQueue` class that conforms to the following interface:
 
 ### Interface
-- `Queue#new()`: Instantiate a new `Queue`
-- `Queue#enqueue(element)`: Add a new element to the queue
-- `Queue#dequeue`: Remove and return the first element in the queue
-- `Queue#peel`: Return (but do not remove) the first element in the queue
-- `Queue#empty?`: Answer whether or not the queue is empty
+- `MyQueue#new()`: Instantiate a new `MyQueue`
+- `MyQueue#enqueue(element)`: Add a new element to the queue
+- `MyQueue#dequeue`: Remove and return the first element in the queue
+- `MyQueue#peel`: Return (but do not remove) the first element in the queue
+- `MyQueue#empty?`: Answer whether or not the queue is empty
 
 Do not use any Ruby data structures in your implementation. Instead, pick one of your own to use in your implementation:
 
